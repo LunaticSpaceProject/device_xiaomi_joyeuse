@@ -39,10 +39,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Build info
-BUILD_FINGERPRINT := "Redmi/joyeuse/joyeuse:10/QKQ1.191215.002/V11.0.4.0.QJZMIXM:user/release-keys"
+BUILD_FINGERPRINT := "google/coral/coral:11/RP1A.200720.009/6720564:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="joyeuse-user 10 QKQ1.191215.002 V11.0.4.0.QJZMIXM release-keys"
+    PRIVATE_BUILD_DESC="joyeuse-user 10 QKQ1.191215.002/V11.0.5.0.QJZMIXM release-keys"
 
 # Maintainer Prop
 PRODUCT_PROPERTY_OVERRIDES += \
