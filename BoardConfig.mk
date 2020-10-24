@@ -22,4 +22,7 @@ TARGET_SCREEN_DENSITY := 430
 DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/joyeuse_defconfig
+TARGET_KERNEL_CONFIG := joyeuse_defconfig
+
+# Assert
+TARGET_OTA_ASSERT_DEVICE := joyeuse
