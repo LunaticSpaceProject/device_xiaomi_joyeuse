@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_joyeuse.mk
+    $(LOCAL_DIR)/rr_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_joyeuse-user \
-    aosp_joyeuse-userdebug \
-    aosp_joyeuse-eng
+    rr_joyeuse-user \
+    rr_joyeuse-userdebug \
+    rr_joyeuse-eng
