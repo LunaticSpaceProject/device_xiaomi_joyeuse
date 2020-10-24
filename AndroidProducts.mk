@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_joyeuse.mk
+    $(LOCAL_DIR)/bootleg_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_joyeuse-user \
-    aosp_joyeuse-userdebug \
-    aosp_joyeuse-eng
+    bootleg_joyeuse-user \
+    bootleg_joyeuse-userdebug \
+    bootleg_joyeuse-eng
